@@ -1,8 +1,9 @@
-title: "kubernetesのお勉強メモ"
-summary: "kubernetes完全ガイド 第2版の読書メモ"
+title: "kubernetes完全ガイド 第2版のお勉強メモ"
+summary: "[kubernetes完全ガイド 第2版](https://book.impress.co.jp/books/1119101148)の読書メモ"
 topics: ["kubernetes"]
 published: false
 price: 0
 chapters:
   - section1-3
   - section4
+  - section5
