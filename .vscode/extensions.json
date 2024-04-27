@@ -1,0 +1,24 @@
+{
+  "recommendations": [
+    "shardulm94.trailing-spaces",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-complete-tag",
+    "formulahendry.auto-rename-tag",
+    "naumovs.color-highlight",
+    "oderwat.indent-rainbow",
+    "ms-ceintl.vscode-language-pack-ja",
+    "yzhang.markdown-all-in-one",
+    "ibm.output-colorizer",
+    "christian-kohler.path-intellisense",
+    "mosapride.zenkaku",
+    "negokaz.zenn-editor",
+    "mhutchie.git-graph",
+    "codezombiech.gitignore",
+    "gruntfuggly.todo-tree",
+    "mutantdino.resourcemonitor",
+    "noy-shimotsuki.hyogai-kanji-checker",
+    "medo64.render-crlf",
+    "eamodio.gitlens",
+    "wraith13.bracket-lens"
+  ]
+}
