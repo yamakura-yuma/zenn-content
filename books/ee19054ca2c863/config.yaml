@@ -5,6 +5,7 @@ published: false
 price: 0
 chapters:
   - c0-overall
+  - c0-introduction
   - c1
   - c2
   - c3
