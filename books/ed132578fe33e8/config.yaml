@@ -4,7 +4,7 @@ topics: ["プロダクトマネジメントのすべて"]
 published: false
 price: 0
 chapters:
-  - c0.overall
+  - c0-overall
   - c1
   - c2
   - c3
