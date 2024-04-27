@@ -1,9 +1,8 @@
 title: "kubernetesのお勉強メモ"
-summary: ""
+summary: "kubernetes完全ガイド 第2版の読書メモ"
 topics: ["kubernetes"]
 published: false
 price: 0 # 有料の場合200〜5000
 # 本に含めるチャプターを順番に並べましょう
 chapters:
-  - 1.本の紹介
-  - 2.1~3章
+  - section1-3
